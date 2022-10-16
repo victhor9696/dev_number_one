@@ -1,0 +1,11 @@
+local_database_host: "localhost"
+local_database_port: "5432"
+local_database_name: "postgres"
+local_database_user: "postgres"
+local_database_pass: "123123"
+
+
+teste_database_host: "localhost"
+teste_database_port:  "5432"
+teste_database_user: 'postgres'
+teste_database_pass: '123123'
